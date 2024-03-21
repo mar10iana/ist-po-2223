@@ -1,0 +1,37 @@
+*** tests/A-11-09-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-11-09-M-ok.outhyp	Sun Nov  6 11:52:11 2022
+***************
+*** 35,41 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969001':0 (pagamentos),  10 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 35,41 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969001':0 (pagamentos),  0 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 70,77 ****
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: TEXT|1|969001|969001|10|10|FINISHED
+! CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+  3 - Mostrar comunicações recebidas por um cliente
+--- 70,76 ----
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+  3 - Mostrar comunicações recebidas por um cliente

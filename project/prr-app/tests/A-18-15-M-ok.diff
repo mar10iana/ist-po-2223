@@ -1,0 +1,12 @@
+*** tests/A-18-15-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-18-15-M-ok.outhyp	Sun Nov  6 11:52:22 2022
+***************
+*** 170,175 ****
+--- 170,176 ----
+  0 - Sair
+  Escolha uma opção: Número inválido!
+  Escolha uma opção: Identificador do cliente: CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
++ O2I|969013
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes

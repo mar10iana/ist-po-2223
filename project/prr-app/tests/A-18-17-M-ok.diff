@@ -1,0 +1,29 @@
+*** tests/A-18-17-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-18-17-M-ok.outhyp	Sun Nov  6 11:52:22 2022
+***************
+*** 53,59 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): O terminal '969008' não pode receber comunicações VIDEO
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 53,59 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): O terminal de destino ('969008') está em silêncio.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 146,151 ****
+--- 146,152 ----
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: Identificador do cliente: CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
++ S2I|969008
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes

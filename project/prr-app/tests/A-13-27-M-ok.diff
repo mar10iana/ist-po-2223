@@ -1,0 +1,34 @@
+*** tests/A-13-27-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-13-27-M-ok.outhyp	Sun Nov  6 11:52:18 2022
+***************
+*** 245,260 ****
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: VOICE|1|969001|969006|13|260|FINISHED
+! VOICE|2|969001|969014|13|260|FINISHED
+! VIDEO|3|969011|969014|1|20|FINISHED
+  VIDEO|4|969011|969015|1|20|FINISHED
+  VIDEO|5|969011|969014|1|20|FINISHED
+  VIDEO|6|969011|969015|1|20|FINISHED
+  VIDEO|7|969011|969014|2|40|FINISHED
+- VIDEO|8|969011|969015|40|400|FINISHED
+- TEXT|9|969011|969015|10|0|FINISHED
+- TEXT|10|969011|969015|60|4|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 245,257 ----
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: VIDEO|1|969011|969015|40|400|FINISHED
+! TEXT|2|969011|969015|10|0|FINISHED
+! TEXT|3|969011|969015|60|4|FINISHED
+  VIDEO|4|969011|969015|1|20|FINISHED
+  VIDEO|5|969011|969014|1|20|FINISHED
+  VIDEO|6|969011|969015|1|20|FINISHED
+  VIDEO|7|969011|969014|2|40|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

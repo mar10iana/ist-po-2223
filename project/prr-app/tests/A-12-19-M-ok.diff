@@ -1,0 +1,38 @@
+*** tests/A-12-19-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-12-19-M-ok.outhyp	Sun Nov  6 11:52:13 2022
+***************
+*** 23,30 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): O terminal de destino ('969001') está ocupado.
+! OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar
+--- 23,29 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar
+***************
+*** 66,73 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): O terminal de destino ('969014') está ocupado.
+! OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar
+--- 65,71 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar

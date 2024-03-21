@@ -1,0 +1,22 @@
+/ImportFileException.java/1.1/Wed Sep 14 16:51:38 2022//
+/MissingFileAssociationException.java/1.1/Wed Sep 14 16:51:38 2022//
+/UnavailableFileException.java/1.2/Sat Oct  1 17:34:11 2022//
+/UnrecognizedEntryException.java/1.2/Wed Sep 14 17:39:54 2022//
+/ClientExistsException.java/1.1/Sun Oct 16 15:54:25 2022//
+/ClientNotExistsException.java/1.1/Sun Oct 16 15:54:25 2022//
+/InvalidTerminalIdException.java/1.1/Sun Oct 16 15:54:25 2022//
+/TerminalExistsException.java/1.1/Sun Oct 16 15:54:25 2022//
+/TerminalNotExistsException.java/1.1/Sun Oct 16 15:54:25 2022//
+/OffNotifAlreadyException.java/1.1/Mon Oct 24 12:34:19 2022//
+/OnNotifAlreadyException.java/1.1/Mon Oct 24 12:34:19 2022//
+/TerminalAlreadyMuteException.java/1.1/Sat Oct 29 16:20:08 2022//
+/TerminalAlreadyOffException.java/1.1/Sat Oct 29 16:20:08 2022//
+/TerminalAlreadyOnException.java/1.1/Sat Oct 29 16:35:20 2022//
+/TerminalBusyException.java/1.1/Sat Oct 29 16:23:18 2022//
+/ToTerminalIsBusyException.java/1.1/Sat Oct 29 21:23:09 2022//
+/ToTerminalIsMuteException.java/1.1/Sat Oct 29 21:23:09 2022//
+/ToTerminalIsOffException.java/1.1/Sat Oct 29 17:04:39 2022//
+/UnsupportedAtDestinationException.java/1.1/Sat Oct 29 21:23:09 2022//
+/UnsupportedAtOriginException.java/1.1/Sat Oct 29 21:23:09 2022//
+/InvalidCommExcepption.java/1.1/Sun Oct 30 15:00:40 2022//
+D

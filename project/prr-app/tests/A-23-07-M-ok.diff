@@ -1,0 +1,29 @@
+*** tests/A-23-07-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-23-07-M-ok.outhyp	Sun Nov  6 11:52:28 2022
+***************
+*** 274,285 ****
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: CLIENT|cli006|Paulo Oliveira|103449|NORMAL|YES|1|0|200
+! CLIENT|cli005|Ricardo Oliveira|103449|NORMAL|YES|1|0|100
+! CLIENT|cli004|Carlos Oliveira|103449|NORMAL|YES|1|0|80
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|60
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|40
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|1|0|20
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 274,285 ----
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|1|0|20
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|40
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|60
+! CLIENT|cli004|Carlos Oliveira|103449|NORMAL|YES|1|0|80
+! CLIENT|cli005|Ricardo Oliveira|103449|NORMAL|YES|1|0|100
+! CLIENT|cli006|Paulo Oliveira|103449|NORMAL|YES|1|0|200
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

@@ -1,0 +1,118 @@
+*** tests/A-12-17-M-ok.out	Sat Nov  5 22:50:19 2022
+--- tests/A-12-17-M-ok.outhyp	Sun Nov  6 11:52:13 2022
+***************
+*** 23,30 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): O terminal '969001' não pode iniciar comunicações VIDEO
+! OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar
+--- 23,29 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+  3 - Desligar
+***************
+*** 32,42 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+! 8 - Enviar comunicação de texto
+! 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Não existe nenhuma comunicação em curso.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 31,40 ----
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+! 10 - Terminar comunicação activa
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: VIDEO|1|969001|969014|0|0|ONGOING
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 45,52 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+! 8 - Enviar comunicação de texto
+! 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: GESTÃO DE TERMINAIS
+--- 43,49 ----
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+! 10 - Terminar comunicação activa
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: GESTÃO DE TERMINAIS
+***************
+*** 62,69 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+- 8 - Enviar comunicação de texto
+- 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: Não existe nenhuma comunicação em curso.
+--- 59,64 ----
+***************
+*** 75,82 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+- 8 - Enviar comunicação de texto
+- 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: GESTÃO DE TERMINAIS
+--- 70,75 ----
+***************
+*** 84,90 ****
+  2 - Registar terminal
+  3 - Operações de terminal
+  0 - Sair
+! Escolha uma opção: BASIC|969001|cli001|IDLE|0|0
+  BASIC|969002|cli001|IDLE|0|0
+  BASIC|969003|cli001|OFF|0|0
+  BASIC|969004|cli002|SILENCE|0|0
+--- 77,83 ----
+  2 - Registar terminal
+  3 - Operações de terminal
+  0 - Sair
+! Escolha uma opção: BASIC|969001|cli001|BUSY|0|0
+  BASIC|969002|cli001|IDLE|0|0
+  BASIC|969003|cli001|OFF|0|0
+  BASIC|969004|cli002|SILENCE|0|0
+***************
+*** 95,101 ****
+  FANCY|969011|cli001|IDLE|0|0
+  FANCY|969012|cli001|OFF|0|0
+  FANCY|969013|cli001|SILENCE|0|0
+! FANCY|969014|cli002|IDLE|0|0
+  FANCY|969015|cli003|IDLE|0|0
+  GESTÃO DE TERMINAIS
+  1 - Mostrar todos os terminais
+--- 88,94 ----
+  FANCY|969011|cli001|IDLE|0|0
+  FANCY|969012|cli001|OFF|0|0
+  FANCY|969013|cli001|SILENCE|0|0
+! FANCY|969014|cli002|BUSY|0|0
+  FANCY|969015|cli003|IDLE|0|0
+  GESTÃO DE TERMINAIS
+  1 - Mostrar todos os terminais
