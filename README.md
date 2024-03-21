@@ -1,5 +1,7 @@
 # Object-Oriented Programming Project 2022-2023
 
+**Achievement**: This project was awarded a grade of 19 out of 20.
+
 ## Overview
 
 This project is a cornerstone of the Object-Oriented Programming course. It focuses on developing an application to manage a communication terminal network efficiently. 
